@@ -1,7 +1,7 @@
 from app.form import Form
 
 
- class Pashtukapache(Form):
+class Pashtukapache(Form):
  
 	def validate(_self, form_data):
 		valid = True
